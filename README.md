@@ -5,13 +5,13 @@
 
 
 # пример работы
-. sk-ijuw58b1xdr024auhl78vevg5coj6z4oyndvxi17
-. sk-6l6u8jnl4cd39exkpwxz5bkf2q3asezist5zju7f
-. sk-cz4sguk81nguxanijqys5j0k8iydnyr471480k7y
-. sk-ysa1z8wu6ih9bazcfu4rehe79svp69u97wzo5v5l
-. sk-2l5eq58wewp7audh52ded84266ix5e0kgz9nrnzg
-. sk-hv3oxzqdb7s3w4whe2dfdty8hluar38lb5scisaf
-. sk-5vd4gpfc69tsyl2zaai5ywn3wou01cl32e7twt4c
-. sk-wktb7qugs5zdx6gfszc7oiygo2guwo921wf7dfae
-. sk-stnua2nj45a546rtx4g5glubgsysxrnnjdjz3k08
-. sk-a1sxt31wj5vjvkx822vh7hghbrjqzy58jkzn2tev
+- sk-ijuw58b1xdr024auhl78vevg5coj6z4oyndvxi17
+- sk-6l6u8jnl4cd39exkpwxz5bkf2q3asezist5zju7f
+- sk-cz4sguk81nguxanijqys5j0k8iydnyr471480k7y
+- sk-ysa1z8wu6ih9bazcfu4rehe79svp69u97wzo5v5l
+- sk-2l5eq58wewp7audh52ded84266ix5e0kgz9nrnzg
+- sk-hv3oxzqdb7s3w4whe2dfdty8hluar38lb5scisaf
+- sk-5vd4gpfc69tsyl2zaai5ywn3wou01cl32e7twt4c
+- sk-wktb7qugs5zdx6gfszc7oiygo2guwo921wf7dfae
+- sk-stnua2nj45a546rtx4g5glubgsysxrnnjdjz3k08
+- sk-a1sxt31wj5vjvkx822vh7hghbrjqzy58jkzn2tev
